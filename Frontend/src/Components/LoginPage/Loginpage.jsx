@@ -12,7 +12,7 @@ const Login = () => {
 
 
       <div class="container">
-        <h2 className='name text-center mt-5'>SIGNIN</h2>
+        <h2 className='name text-center mt-5'>Login</h2>
         <form action="" id="form">
 
             <div class="input-group">
@@ -25,7 +25,7 @@ const Login = () => {
                 <input type="password" id="password" name = "password"/>
             </div>
             
-            <button type="button" class="btn btn-dark">Signin</button>
+            <button type="button" class="btn btn-dark">Login</button>
         </form>
         </div>
             
