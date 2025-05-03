@@ -1,0 +1,18 @@
+.low{
+    margin-top: 50px;
+    color: hwb(230 34% 4%);
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    font-size: 50px;
+}
+.quality{
+    font-size: 45px;
+    color:hwb(230 34% 4%);
+    font-family:Georgia, 'Times New Roman', Times, serif;
+}
+.get{
+    font-size: 20px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.shop1{
+    margin-left: 200px;
+}

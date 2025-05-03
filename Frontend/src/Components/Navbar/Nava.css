@@ -1,0 +1,81 @@
+body{
+    overflow-x: hidden;
+}
+
+.nav1{
+    background-color: hsl(358, 59%, 71%);
+    
+}
+#nav2{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+    margin-right: 10px;
+    color: black;
+    text-decoration: none;
+}
+#nav2:hover{
+    color: rgb(65, 52, 210);
+}
+#head{
+    color: black;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 30px;
+    padding-left: 30px;
+}
+.contain{
+    display: flex;
+    float: right;
+}
+.contain div{
+    margin: 0px 30px;
+    
+}
+.nav3{
+    color: white;
+    margin-left: 30px;
+    font-size: 30px;
+}
+.inputbox{
+    width: 300px;
+    padding: 5px;
+    border-radius: 5px;
+    display: block;
+    margin:  auto;
+    outline-color: skyblue;
+}
+.nav4{
+    margin-right: 800px;
+}
+
+
+@media screen and (max-width: 576px) {
+    #head{
+        padding-left: 10px;
+    }
+    #nav2{
+        padding-left: 10px;
+    }
+    .contain{
+        display: flex;
+        padding-right: 300px;
+    }
+}
+
+.bg{
+    background-color: #DFD2EC;
+    height: 550px;
+}
+
+
+
+.cartCount {
+    position: absolute;
+    top: -5px;
+    right: -8px;
+    background-color: red;
+    color: white;
+    font-size: 11px;
+    padding: 2px 6px;
+    border-radius: 50%;
+  }
+  

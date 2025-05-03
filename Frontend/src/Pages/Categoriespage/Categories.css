@@ -1,0 +1,81 @@
+@media (min-width: 50px) and (max-width: 768px){
+    .categories{
+        display: none;
+    }
+}
+
+.categories2 .nav {
+    text-align: center;
+}
+
+.categories2 .nav .nav-link {
+    font-weight: bold;
+}
+
+.categories2 .nav .dropdown-menu {
+    min-width: 200px; /* Ensures dropdown width */
+}
+
+
+.backimg{
+    background-image: url("https://img.freepik.com/premium-photo/girl39s-school-uniform-black-sweater-blue-shirt-pleated-skirt_719585-11913.jpg?uid=R179528585&ga=GA1.1.1840216468.1719552424&semt=ais_hybrid");
+    background-size: cover;
+    filter: blur(1px);
+    background-position: center;
+    height: 400px;
+    background-repeat: no-repeat;
+}
+.categories1{
+    margin: 20vh auto;
+    font-size: 70px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.fashion{
+    margin-top: 100px;
+}
+.conn{
+    margin-top: 70px;
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+    font-weight: bold;
+}
+.category{
+    margin-top: 130px;
+}
+.text1{
+    margin-left: 80px;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color: red;
+    font-style: italic;
+}
+.img-top{
+    transition: transform .2s;
+    cursor: pointer;
+}
+.img-top:hover{
+    transform: scale(1.1);
+}
+.low{
+    margin-top: 50px;
+    color: hwb(230 34% 4%);
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    font-size: 50px;
+}
+.quality{
+    font-size: 45px;
+    color:hwb(230 34% 4%);
+    font-family:Georgia, 'Times New Roman', Times, serif;
+}
+.get{
+    font-size: 20px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.shop1{
+    margin-left: 200px;
+}
+.nav-icon {
+    width: 39px; /* Adjust size as needed */
+    height: 45px;
+    margin-right: 8px;
+    vertical-align: middle;
+}
